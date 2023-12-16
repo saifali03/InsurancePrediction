@@ -17,4 +17,4 @@ It is a classification problem, which falls under the umbrella of supervised lea
 
 ### In this repository:
 - Click on the `main.ipynb` to view the working behind our models and explanations
-- The link to the dataset: [](https://www.kaggle.com/datasets/sagnik1511/car-insurance-data)
+- The link to the dataset: [click here](https://www.kaggle.com/datasets/sagnik1511/car-insurance-data)
