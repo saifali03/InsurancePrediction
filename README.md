@@ -1,6 +1,6 @@
 ## Car Insurance Analysis and Claim Prediction Using Machine Learning Models
    
-### Abstrac
+### Abstract
 Insurance operates as a financial transaction, exchanging uncertain future losses for certain premiums. In this exchange, an insured event triggers a request for coverage, constituting an insurance claim. Accurately anticipating these claims is crucial for insurers, shaping pricing accuracy and future profitability projections. A precise understanding of claims occurrence profoundly influences an insurance company’s operational profitability, underpinning pricing validity and risk assessment for solvency requirements. 
 
 Traditional forecasting methods rely on historical patterns and probability distributions, distinguishing between small and large claims to refine predictions. Amidst this landscape, harnessing the power of cutting-edge machine learning methodologies like XGBoost, Logistic Regression, and Support Vector Machines (SVM) represents an evolutionary leap. Employing these advanced models enables a deeper understanding of intricate data patterns, fosters nuanced risk assessments, and amplifies predictive accuracy. The impact of these ML models spans claims processing, fraud detection, risk management, and most importantly, claim capability of predicting insurance claims with precision.
