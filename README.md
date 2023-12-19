@@ -1,5 +1,5 @@
 ## Car Insurance Analysis and Claim Prediction Using Machine Learning Models
-
+ 
 ### Abstract
 Insurance operates as a financial transaction, exchanging uncertain future losses for certain premiums. In this exchange, an insured event triggers a request for coverage, constituting an insurance claim. Accurately anticipating these claims is crucial for insurers, shaping pricing accuracy and future profitability projections. A precise understanding of claims occurrence profoundly influences an insurance company’s operational profitability, underpinning pricing validity and risk assessment for solvency requirements. 
 
